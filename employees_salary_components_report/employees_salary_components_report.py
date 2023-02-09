@@ -1,4 +1,4 @@
-# Copyright (c) 2022, zizo and contributors
+# Copyright (c) 2022, Nabaa and contributors
 # For license information, please see license.txt
 
 
